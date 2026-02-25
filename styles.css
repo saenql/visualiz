@@ -1,9 +1,1 @@
-header {
-  display: flex; /*everyting on online*/
-  justify-content: space-between; /*puts space inbetween content*/
-  align-items: center; 
-}
 
-.nav button {
-  margin-left: 10px;          /* spacing between buttons */
-}
